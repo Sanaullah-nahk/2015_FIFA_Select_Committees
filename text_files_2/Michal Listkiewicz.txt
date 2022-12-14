@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"16584087":{"pageid":16584087,"ns":0,"title":"Michal Listkiewicz","extract":""}}}}

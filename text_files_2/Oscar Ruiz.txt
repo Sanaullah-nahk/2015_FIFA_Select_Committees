@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"9682068":{"pageid":9682068,"ns":0,"title":"Oscar Ruiz","extract":""}}}}

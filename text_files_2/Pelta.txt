@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"22319663":{"pageid":22319663,"ns":0,"title":"Pelta","extract":""}}}}

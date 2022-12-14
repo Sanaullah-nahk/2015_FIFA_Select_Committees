@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"26457729":{"pageid":26457729,"ns":0,"title":"Yngve Hallen","extract":""}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3187420":{"pageid":3187420,"ns":0,"title":"Walter Sieber","extract":""}}}}

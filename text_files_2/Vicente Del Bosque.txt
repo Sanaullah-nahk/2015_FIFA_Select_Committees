@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"8538432":{"pageid":8538432,"ns":0,"title":"Vicente Del Bosque","extract":""}}}}

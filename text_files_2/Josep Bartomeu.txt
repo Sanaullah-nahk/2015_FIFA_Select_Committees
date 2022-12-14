@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"42232161":{"pageid":42232161,"ns":0,"title":"Josep Bartomeu","extract":""}}}}

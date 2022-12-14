@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"49555372":{"pageid":49555372,"ns":0,"title":"Kohzo Tashima","extract":""}}}}

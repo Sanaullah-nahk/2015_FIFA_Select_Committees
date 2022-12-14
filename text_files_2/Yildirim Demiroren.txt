@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4342587":{"pageid":4342587,"ns":0,"title":"Yildirim Demiroren","extract":""}}}}

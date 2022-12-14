@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"72292787":{"pageid":72292787,"ns":0,"title":"Horace Reid","extract":"Horace Reid may refer to:\n\nHorace Reid (cricketer) (born 1935), Jamaican cricketer of the 1960s.\nHorace Reid (tennis) (born 1955), American tennis player of the 1970s."}}}}
